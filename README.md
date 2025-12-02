@@ -1,14 +1,23 @@
-# Project Title: Quantium Data Challenge: Retail Strategy
+# 🛒 Quantium Data Challenge: Retail Strategy
 
-## Goal: To analyze customer transaction data to identify high-performing benchmark stores.
+## 📌 Project Overview
+This project simulates a real-world data analytics task for a retail client. The focus was on analyzing customer transaction data to identify benchmark stores for trial layouts and provide data-driven commercial insights to the Category Manager.
 
-## Methods: Python (Pandas, NumPy), SQL queries for data extraction, uplift analysis, and visualization.
+## 🛠 Tools & Technologies
+* Language: R
+* Libraries: Tidyverse (dplyr, ggplot2, tidyr), RMarkdown, broom
+* Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Uplift Testing, A/B Testing, Statistical Significance Testing, SQL queries for extraction.
 
-## Key Findings: Identified key store attributes that correlated with a 5% revenue uplift, informing management of successful trial rollout criteria.
+## 💡 Key Findings
+* Trial Impact: The trial store layout resulted in a statistically significant uplift in total sales compared to benchmark stores.
+* Strategic Value: The analysis informed a roll-out strategy projected to drive **$200K+ in revenue growth** by prioritizing key store attributes.
+* Sales Drivers: Identified specific customer segments whose spending habits contribute most significantly to sales performance.
 
-## Files: 
-  - Complete_Quantium_code.R.Rmd 
-  - customer_data_summary_raw.csv
-  - transaction_data_summary_raw.csv
-  - QVI_transaction_data.csv
-  - QVI_purchase_behaviour.csv 
+## 🚀 How to Run
+1. Clone this repository.
+2. Ensure R and RStudio are installed.
+3. Install required packages: `install.packages(c("tidyverse", "RMarkdown", "broom"))`
+4. Run the R script or RMarkdown file: `RStudio: Open [Complete_Quantium_code.Rmd]`
+
+---
+* Created by [Michal Kuderski](https://michalkuderski.github.io/) - Aspiring Data Analyst *
