@@ -1,0 +1,7 @@
+"","     DATE","  STORE_NBR","LYLTY_CARD_NBR","    TXN_ID","   PROD_NBR"," PROD_NAME","   PROD_QTY","  TOT_SALES"
+"","Min.   :43282  ","Min.   :  1.0  ","Min.   :   1000  ","Min.   :      1  ","Min.   :  1.00  ","Length:264836     ","Min.   :  1.000  ","Min.   :  1.500  "
+"","1st Qu.:43373  ","1st Qu.: 70.0  ","1st Qu.:  70021  ","1st Qu.:  67602  ","1st Qu.: 28.00  ","Class :character  ","1st Qu.:  2.000  ","1st Qu.:  5.400  "
+"","Median :43464  ","Median :130.0  ","Median : 130358  ","Median : 135138  ","Median : 56.00  ","Mode  :character  ","Median :  2.000  ","Median :  7.400  "
+"","Mean   :43464  ","Mean   :135.1  ","Mean   : 135550  ","Mean   : 135158  ","Mean   : 56.58  ",NA,"Mean   :  1.907  ","Mean   :  7.304  "
+"","3rd Qu.:43555  ","3rd Qu.:203.0  ","3rd Qu.: 203094  ","3rd Qu.: 202701  ","3rd Qu.: 85.00  ",NA,"3rd Qu.:  2.000  ","3rd Qu.:  9.200  "
+"","Max.   :43646  ","Max.   :272.0  ","Max.   :2373711  ","Max.   :2415841  ","Max.   :114.00  ",NA,"Max.   :200.000  ","Max.   :650.000  "
